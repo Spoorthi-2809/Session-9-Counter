@@ -1,4 +1,3 @@
-‎
 import { useState } from 'react';
 
 function ButtonIncrement(props) {
